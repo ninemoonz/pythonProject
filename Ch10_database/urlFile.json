@@ -1,0 +1,16 @@
+[
+  {
+    "id": 76811,
+    "url": "https://api.github.com/repos/pandas-dev/pandas/labels/Bug",
+    "name": "Bug",
+    "color": "e10c02",
+    "default": false
+  },
+  {
+    "id": 76812,
+    "url": "https://api.github.com/repos/pandas-dev/pandas/labels/Enhancement",
+    "name": "Enhancement",
+    "color": "4E9A06",
+    "default": false
+  }
+]
